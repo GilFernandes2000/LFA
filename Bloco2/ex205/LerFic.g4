@@ -1,0 +1,2 @@
+grammar LerFic;
+stat: assign
